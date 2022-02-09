@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  //   font-family: "Baloo Bhaijaan 2", cursive;
+  font-family: "Baloo Bhaijaan 2", cursive;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500;600;700;800&display=swap");
@@ -11,6 +11,10 @@ h1,
 h2,
 h3 {
   color: rgb(24, 24, 24);
+}
+
+h2 {
+  font-size: 2rem;
 }
 
 @import "./player";
