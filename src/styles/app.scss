@@ -8,8 +8,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500;600;700;800&display=swap");
 
 h1,
-h2,
-h3 {
+h2 {
   color: rgb(24, 24, 24);
 }
 
@@ -17,5 +16,11 @@ h2 {
   font-size: 2rem;
 }
 
+h4 {
+  color: rgb(129, 129, 129);
+}
+
 @import "./player";
 @import "./song";
+@import "./library";
+@import "./nav";
