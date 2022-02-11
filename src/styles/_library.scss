@@ -12,6 +12,7 @@
   opacity: 0;
   h2 {
     padding: 2rem;
+    line-height: 42px;
   }
 }
 
@@ -25,6 +26,7 @@
   align-items: center;
   padding: 1rem 2rem 1rem 2rem;
   cursor: pointer;
+  transition: background 0.5s ease;
 
   .song__description {
     padding-left: 1rem;
@@ -75,4 +77,10 @@
 .active-library {
   transform: translateX(0%);
   opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .library {
+    width: 100%;
+  }
 }

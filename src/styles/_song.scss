@@ -19,3 +19,11 @@
     color: rgb(129, 129, 129);
   }
 }
+
+@media screen and (max-width: 768px) {
+  .song__container {
+    img {
+      width: 60%;
+    }
+  }
+}
