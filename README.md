@@ -2,7 +2,7 @@
 
 This is a basic music player with a library, play/pause, skip fuctionality. Tracks are stored in a simple js file.
 
-## What i used do build this project
+## What i used to build this project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I also used `Sass` for styling, `uuid` for uniquie IDs generation.
 
