@@ -1,6 +1,6 @@
 # Waves music player
 
-This is a basic music player with a library, play/puse, skip fuctionality. Tracks are stored in a simple js file.
+This is a basic music player with a library, play/pause, skip fuctionality. Tracks are stored in a simple js file.
 
 ## What i used do build this project
 
